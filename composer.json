@@ -1,0 +1,16 @@
+{
+    "name": "ttd/code-testability",
+    "description": "Examples for improving testability",
+    "autoload": {
+        "psr-4": {
+            "Ttd\\CodeTestability\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manish Choudhary",
+            "email": "choudharymanish@protonmail.com"
+        }
+    ],
+    "require": {}
+}
